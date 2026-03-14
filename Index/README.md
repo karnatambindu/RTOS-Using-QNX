@@ -2,10 +2,10 @@
   <img src="logo.png" alt="Logo" width="500">
 </p>
 <p align="center">
-    19EC527: Real Time Operating System using QNX
+    <b>19EC527: Real Time Operating System using QNX
 </p>
 <p align="center">
-    Table of Contents
+    <b>Table of Contents
 </p>
 
 | Exp. No. | Date | Experiment Title | QR Code | Marks | Signature |
