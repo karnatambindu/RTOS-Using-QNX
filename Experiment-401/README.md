@@ -103,6 +103,8 @@ Interrupt received! , Count is 4
 ---
 
 # Output
+<img width="517" height="496" alt="Screenshot 2026-03-16 190948" src="https://github.com/user-attachments/assets/3e26aa49-f43d-4a82-bf74-2cc477ee1ba9" />
+
 ---
 
 # Result
